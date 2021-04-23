@@ -4,7 +4,7 @@ This is the final MS3 project for CS 3110 Fall 2020. This is a financial
 information program that prints user requests from API's, allow query and
 response.
 
-The creators are Berk Tanyeri (bt276), Hoon Chang (hjc79), Jun Chang (jc2473).
+The creators are Berk Tanyeri, Hoon Chang, Jun Chang.
 
 ### Important Note For Users
 Whenever a make command is executed, such as make build docs or test, the
