@@ -1,0 +1,29 @@
+INSTRUCTIONS (ON A LOCAL INSTALL ONLY)
+========================================================
+1. Download the zip file.
+2. Put the zip file on Ugclinux or the local install
+3. Unzip the zip folder using $ unzip 3110Project.zip
+4. Navigate to the folder (open the folder)
+5. Ensure Yojson is installed, if not install with opam (should already be installed from 3110 install instructions)
+
+EXECUTE THE FOLLOWING COMMANDS IN TERMINAL
+========================================================
+6. opam install cohttp-lwt-unix cohttp-async
+7. /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+8. Add HomeBrew to your PATH as described after installing brew
+9. brew install pkg-config
+10. brew install openssl
+11. export PKG_CONFIG_PATH=$(brew --prefix openssl)/lib/pkgconfig
+12. opam install lwt_ssl
+
+RUN THE PROGRAM
+========================================================
+13. execute 'make build' to get our program running!
+
+IMPORTANT NOTE
+========================================================
+Whenever a make command is executed, such as make build docs or test, the
+program will automatically execute the driver. Therefore, in order for the make
+to finish executing, such as producing the test results or creating the docs
+folder, terminate the driver by entering QUIT when applicable to see the
+results of the make command.

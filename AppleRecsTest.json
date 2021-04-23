@@ -1,0 +1,290 @@
+[
+  {
+    "buy": 24,
+    "hold": 7,
+    "period": "2020-11-01",
+    "sell": 0,
+    "strongBuy": 13,
+    "strongSell": 0,
+    "symbol": "AAPL"
+  },
+  {
+    "buy": 19,
+    "hold": 10,
+    "period": "2020-10-01",
+    "sell": 2,
+    "strongBuy": 13,
+    "strongSell": 2,
+    "symbol": "AAPL"
+  },
+  {
+    "buy": 19,
+    "hold": 10,
+    "period": "2020-09-01",
+    "sell": 2,
+    "strongBuy": 13,
+    "strongSell": 2,
+    "symbol": "AAPL"
+  },
+  {
+    "buy": 13,
+    "hold": 19,
+    "period": "2020-08-01",
+    "sell": 3,
+    "strongBuy": 15,
+    "strongSell": 0,
+    "symbol": "AAPL"
+  },
+  {
+    "buy": 13,
+    "hold": 19,
+    "period": "2020-07-01",
+    "sell": 3,
+    "strongBuy": 15,
+    "strongSell": 0,
+    "symbol": "AAPL"
+  },
+  {
+    "buy": 13,
+    "hold": 19,
+    "period": "2020-06-01",
+    "sell": 3,
+    "strongBuy": 15,
+    "strongSell": 0,
+    "symbol": "AAPL"
+  },
+  {
+    "buy": 20,
+    "hold": 8,
+    "period": "2020-05-01",
+    "sell": 3,
+    "strongBuy": 14,
+    "strongSell": 0,
+    "symbol": "AAPL"
+  },
+  {
+    "buy": 13,
+    "hold": 19,
+    "period": "2020-04-01",
+    "sell": 3,
+    "strongBuy": 15,
+    "strongSell": 0,
+    "symbol": "AAPL"
+  },
+  {
+    "buy": 13,
+    "hold": 19,
+    "period": "2020-03-01",
+    "sell": 3,
+    "strongBuy": 15,
+    "strongSell": 0,
+    "symbol": "AAPL"
+  },
+  {
+    "buy": 13,
+    "hold": 19,
+    "period": "2020-02-01",
+    "sell": 3,
+    "strongBuy": 15,
+    "strongSell": 0,
+    "symbol": "AAPL"
+  },
+  {
+    "buy": 13,
+    "hold": 19,
+    "period": "2020-01-01",
+    "sell": 3,
+    "strongBuy": 15,
+    "strongSell": 0,
+    "symbol": "AAPL"
+  },
+  {
+    "buy": 13,
+    "hold": 19,
+    "period": "2019-12-01",
+    "sell": 3,
+    "strongBuy": 15,
+    "strongSell": 0,
+    "symbol": "AAPL"
+  },
+  {
+    "buy": 13,
+    "hold": 19,
+    "period": "2019-11-01",
+    "sell": 3,
+    "strongBuy": 15,
+    "strongSell": 0,
+    "symbol": "AAPL"
+  },
+  {
+    "buy": 13,
+    "hold": 19,
+    "period": "2019-10-01",
+    "sell": 3,
+    "strongBuy": 15,
+    "strongSell": 0,
+    "symbol": "AAPL"
+  },
+  {
+    "buy": 13,
+    "hold": 19,
+    "period": "2019-09-01",
+    "sell": 3,
+    "strongBuy": 15,
+    "strongSell": 0,
+    "symbol": "AAPL"
+  },
+  {
+    "buy": 13,
+    "hold": 19,
+    "period": "2019-08-01",
+    "sell": 3,
+    "strongBuy": 15,
+    "strongSell": 0,
+    "symbol": "AAPL"
+  },
+  {
+    "buy": 13,
+    "hold": 19,
+    "period": "2019-07-01",
+    "sell": 3,
+    "strongBuy": 15,
+    "strongSell": 0,
+    "symbol": "AAPL"
+  },
+  {
+    "buy": 10,
+    "hold": 20,
+    "period": "2019-06-01",
+    "sell": 2,
+    "strongBuy": 15,
+    "strongSell": 0,
+    "symbol": "AAPL"
+  },
+  {
+    "buy": 10,
+    "hold": 22,
+    "period": "2019-05-01",
+    "sell": 1,
+    "strongBuy": 15,
+    "strongSell": 0,
+    "symbol": "AAPL"
+  },
+  {
+    "buy": 10,
+    "hold": 22,
+    "period": "2019-04-01",
+    "sell": 1,
+    "strongBuy": 15,
+    "strongSell": 0,
+    "symbol": "AAPL"
+  },
+  {
+    "buy": 10,
+    "hold": 22,
+    "period": "2019-03-01",
+    "sell": 1,
+    "strongBuy": 15,
+    "strongSell": 0,
+    "symbol": "AAPL"
+  },
+  {
+    "buy": 10,
+    "hold": 22,
+    "period": "2019-02-01",
+    "sell": 1,
+    "strongBuy": 15,
+    "strongSell": 0,
+    "symbol": "AAPL"
+  },
+  {
+    "buy": 14,
+    "hold": 18,
+    "period": "2019-01-01",
+    "sell": 0,
+    "strongBuy": 17,
+    "strongSell": 0,
+    "symbol": "AAPL"
+  },
+  {
+    "buy": 14,
+    "hold": 17,
+    "period": "2018-12-01",
+    "sell": 0,
+    "strongBuy": 16,
+    "strongSell": 0,
+    "symbol": "AAPL"
+  },
+  {
+    "buy": 16,
+    "hold": 14,
+    "period": "2018-11-01",
+    "sell": 0,
+    "strongBuy": 19,
+    "strongSell": 0,
+    "symbol": "AAPL"
+  },
+  {
+    "buy": 16,
+    "hold": 15,
+    "period": "2018-10-01",
+    "sell": 0,
+    "strongBuy": 17,
+    "strongSell": 0,
+    "symbol": "AAPL"
+  },
+  {
+    "buy": 15,
+    "hold": 15,
+    "period": "2018-09-01",
+    "sell": 0,
+    "strongBuy": 17,
+    "strongSell": 0,
+    "symbol": "AAPL"
+  },
+  {
+    "buy": 16,
+    "hold": 15,
+    "period": "2018-08-01",
+    "sell": 0,
+    "strongBuy": 15,
+    "strongSell": 0,
+    "symbol": "AAPL"
+  },
+  {
+    "buy": 16,
+    "hold": 16,
+    "period": "2018-07-01",
+    "sell": 0,
+    "strongBuy": 15,
+    "strongSell": 0,
+    "symbol": "AAPL"
+  },
+  {
+    "buy": 17,
+    "hold": 16,
+    "period": "2018-06-01",
+    "sell": 0,
+    "strongBuy": 15,
+    "strongSell": 0,
+    "symbol": "AAPL"
+  },
+  {
+    "buy": 19,
+    "hold": 15,
+    "period": "2018-05-01",
+    "sell": 0,
+    "strongBuy": 15,
+    "strongSell": 0,
+    "symbol": "AAPL"
+  },
+  {
+    "buy": 19,
+    "hold": 14,
+    "period": "2018-04-01",
+    "sell": 0,
+    "strongBuy": 13,
+    "strongSell": 0,
+    "symbol": "AAPL"
+  }
+]
